@@ -2,6 +2,7 @@
 #define OBD_h
 
 #include "Arduino.h"
+#include "PIDS.h"
 
 #ifndef mcp_can_h
 #include <mcp_can.h>
